@@ -1,7 +1,8 @@
 # Task Manager (TO-DO List) 📝
 
-This is my first Flask project: a simple Task Manager website (TO-DO list) that runs locally.  
+This is my first **Flask** project: a simple Task Manager website (TO-DO list) that runs locally.  
 I built it by following a FreeCodeCamp YouTube tutorial by **Jake Rieger**.
+https://www.youtube.com/watch?v=Z1RJmh_OqeA&list=LL&index=83&t=2295s
 
 ---
 
